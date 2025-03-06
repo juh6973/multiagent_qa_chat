@@ -1,0 +1,8 @@
+{
+    "chatbot": "🤖 Chatbot: ",
+    "user": "👤 User: ",
+    "goodbye": "Goodbye! 👋",
+    "welcome": "\n🧑‍🌾 Welcome to an agricultural-chatbot 🌾!",
+    "instructions": "💬 Type 'quit' or 'exit' at any time to stop.\n",
+    "start": "🛠️ Chatbot starting..."
+}
