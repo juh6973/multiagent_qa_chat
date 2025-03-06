@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# DPR files
+*.npy
+*.bin
+*.txt
+
+# Setup files
+!requirements.txt
